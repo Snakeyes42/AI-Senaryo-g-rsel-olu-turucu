@@ -1,0 +1,5 @@
+{
+  "name": "Senaryo Görselleştirici",
+  "description": "Metin açıklamalarından görseller ve videolar oluşturmak için bir uygulama. Kullanıcılar görseller için stilleri ve boyutları belirleyebilir, oluşturulan görseller için çeşitli ses seçenekleriyle seslendirme yapabilir ve başlangıç görüntüsü yükleyerek video oluşturabilir.",
+  "requestFramePermissions": []
+}
